@@ -1,6 +1,7 @@
 Transcripción citada del Ensayo Bibliográfico de Herbert S. Klein y Manuel E. Contreras en la 7ma. edición de Historia de Bolivia (2025). 
 
 - [Ensayo original](ensayo.pdf)
+- [Página en desarrollo](https://mauforonda.github.io/historia_de_bolivia/)
 - [Transcripción en desarrollo](index.md)
 - [Citaciones en desarrollo](ensayo.json)
 
