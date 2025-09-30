@@ -4,9 +4,14 @@ $link-color: #616fbdf5;
 /*-- scss:rules --*/
 
 #toc-title {
-    display: none;
+  display: none;
 }
 
-nav li, .column-margin>*, .citation {
-  font-size: .75rem;
+nav li,
+.column-margin > *,
+.citation {
+  font-size: 0.75rem;
+  a {
+    word-wrap: break-word;
+  }
 }
