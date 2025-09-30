@@ -1,0 +1,35 @@
+project:
+  type: website
+  render:
+    - index.md
+
+website:
+  title: "Ensayo bibliográfico"
+
+lang: es
+bibliography: ensayo.json
+csl: chicago-nodash.csl
+
+format:
+  html:
+    theme: 
+      light: 
+      - cosmo
+      - custom.scss
+      dark: 
+      - cosmo
+      - custom.scss
+      - dark.scss
+    respect-user-color-scheme: true
+    self-contained-math: true
+    number-sections: false
+    toc: true
+    toc-location: left
+    toc-depth: 6
+    toc-expand: 1
+    anchor-sections: true
+    footnotes-hover: true
+    citation-hover: true
+    link-citations: true
+    citation-location: margin
+    reference-location: margin

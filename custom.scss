@@ -1,0 +1,12 @@
+/*-- scss:defaults --*/
+$link-color: #616fbdf5;
+
+/*-- scss:rules --*/
+
+#toc-title {
+    display: none;
+}
+
+nav li, .column-margin>*, .citation {
+  font-size: .75rem;
+}
